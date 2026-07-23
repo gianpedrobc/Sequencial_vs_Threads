@@ -21,4 +21,4 @@ Este projeto demonstra o funcionamento de **Threads** em Python utilizando o mó
 ## Como executar
 
 ```bash
-python main.py
+python Sequencial_vs_Threads.py
